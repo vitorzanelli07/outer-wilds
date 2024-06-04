@@ -1,0 +1,13 @@
+@media screen and (max-width: 1200px){
+    body {background-color: aqua;}
+    h1 {font-size: 500%;
+        color:darkgreen }
+}
+
+@media screen and (max-width: 500px){
+
+    h1 {font-size: 500%;
+    color:red }
+    body {background-color:chartreuse;}
+
+    }
